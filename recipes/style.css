@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(215, 215, 215);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+
+h2 {
+   text-align: center;
+
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 0 200px;
+}
+
+.divimg {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.description {
+    margin: 30px 20px;
+
+}
+
+.ingredients {
+    margin: 25px;
+}
+
+.refpage {
+    text-align: center;
+    margin: 30px  0;
+}
+
+.home { 
+    text-align: center;
+    display: block;
+    margin-bottom: 30px;
+}
